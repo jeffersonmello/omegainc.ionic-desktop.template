@@ -1,0 +1,1 @@
+# omegainc.ionic-desktop.template
